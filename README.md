@@ -1,1 +1,1 @@
-Hello! My name is Magzhan. I am  Java Backend Developer
+Hello! My name is Magzhan. I am Backend Developer
